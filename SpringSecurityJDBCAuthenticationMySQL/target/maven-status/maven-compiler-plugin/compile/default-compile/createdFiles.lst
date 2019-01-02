@@ -1,0 +1,3 @@
+com\javasampleapproach\springsecurity\jdbcauthentication\controller\WebController.class
+com\javasampleapproach\springsecurity\jdbcauthentication\config\SecurityConfig.class
+com\javasampleapproach\springsecurity\jdbcauthentication\SpringSecurityJdbcAuthenticationMySqlApplication.class
