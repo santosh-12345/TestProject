@@ -35,6 +35,10 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 		
 		
 	}
+	
+	public void secondmethod(){
+	
+	}
 }
 
 // Used URL: https://docs.spring.io/autorepo/docs/spring-security-javaconfig/1.0.0.CI-SNAPSHOT/api-reference/org/springframework/security/config/annotation/provisioning/JdbcUserDetailsManagerConfigurator.html
