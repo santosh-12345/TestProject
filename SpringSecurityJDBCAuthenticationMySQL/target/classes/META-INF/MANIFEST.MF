@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: SpringSecurityJDBCAuthenticationMySQL
 Implementation-Version: 0.0.1
-Built-By: S.N Reddy
+Built-By: sree
 Implementation-Vendor-Id: com.javasampleapproach.springsecurity
-Build-Jdk: 1.8.0_191
+Build-Jdk: 1.8.0_202
 Implementation-URL: http://projects.spring.io/spring-boot/SpringSecuri
  tyJDBCAuthenticationMySQL/
 Created-By: Maven Integration for Eclipse

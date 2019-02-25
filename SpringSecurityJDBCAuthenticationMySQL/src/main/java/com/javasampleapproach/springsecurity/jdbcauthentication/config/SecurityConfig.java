@@ -30,8 +30,14 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 				.permitAll();
 		http.exceptionHandling().accessDeniedPage("/403");
 	}
+	
+	public void method() {
+		
+		
+	}
 }
 
 // Used URL: https://docs.spring.io/autorepo/docs/spring-security-javaconfig/1.0.0.CI-SNAPSHOT/api-reference/org/springframework/security/config/annotation/provisioning/JdbcUserDetailsManagerConfigurator.html
 // usersByUsernameQuery(java.lang.String query) ---- Sets the query to be used for finding a user by their username.
 // authoritiesByUsernameQuery(java.lang.String query) ---- Sets the query to be used for finding a user's authorities by their username.
+
